@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">RickAndMortyTurkcell</string>
+
+    <string name="character_status_alive">Alive</string>
+    <string name="character_status_dead">Dead</string>
+    <string name="character_status_unknown">Unknown</string>
+
+    <string name="character_species_human">Human</string>
+    <string name="character_species_alien">Alien</string>
+    <string name="character_species_unknown">Unknown</string>
+
+    <string name="character_gender_male">Male</string>
+    <string name="character_gender_female">Female</string>
+    <string name="character_gender_unknown">Unknown</string>
+
+    <string name="back">Back</string>
+    <string name="character_detail_not_found">Character not found</string>
+    <string name="character_detail_status">Status</string>
+    <string name="character_detail_species">Species</string>
+    <string name="character_detail_gender">Gender</string>
+    <string name="character_detail_origin">Origin</string>
+    <string name="character_detail_location">Location</string>
+    <string name="character_detail_image_cd">%1$s image</string>
+    <string name="gallery_photo">Gallery Photo</string>
+
+    <string name="try_again">Try again</string>
+    <string name="retry">Retry</string>
+    <string name="retry_image">Retry image</string>
+
+    <string name="status_badge_alive">Alive</string>
+    <string name="status_badge_dead">R.I.P</string>
+
+    <string name="character_list_title">Characters</string>
+    <string name="sort_newest_first">Newest first</string>
+    <string name="sort_oldest_first">Oldest first</string>
+    <string name="pick_photos">Pick photos</string>
+    <string name="toggle_sort_order">Toggle sort order</string>
+    <string name="gallery_photos">Gallery Photos</string>
+    <string name="rick_and_morty_characters">Rick &amp; Morty Characters</string>
+    <string name="photo_saved_to_gallery">Photo saved to gallery</string>
+    <string name="download_failed">Download failed</string>
+    <string name="download">Download</string>
+</resources>

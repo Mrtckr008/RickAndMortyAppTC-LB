@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "PROJECT_ID",
+    "project_id": "PROJECT_ID",
+    "storage_bucket": "PROJECT_ID.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:PROJECT_ID:android:PROJECT_ID",
+        "android_client_info": {
+          "package_name": "com.interview.rickandmortyturkcell"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "API_KEY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
